@@ -4,24 +4,10 @@ body p {
     font-size: 1.1em;
 }
 
-.navbar-fixed-top .nav {
+.navbar-static-top .nav {
     font-size: 1.3em;
 }
 
-.navbar-fixed-top .navbar-brand {
-    padding: 0 15px;
-}
-
-footer {
-    padding: 30px 0;
-}
-
-@media(min-width:768px) {
-    body {
-        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
-    }
-
-    .navbar-fixed-top .navbar-brand {
-        padding: 15px 0;
-    }
+.navbar-fixex-top .nav {
+    font-size: 1.3em;
 }
